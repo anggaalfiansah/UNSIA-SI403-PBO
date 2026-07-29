@@ -1,0 +1,17 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "Script untuk generate PDF dari Markdown",
+  "main": "generate_pdf.ts",
+  "scripts": {
+    "start": "bun run generate_pdf.ts"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.2.4"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "latest",
+    "typescript": "^5.0.0"
+  }
+}
