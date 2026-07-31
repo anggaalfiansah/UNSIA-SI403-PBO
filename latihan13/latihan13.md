@@ -32,22 +32,18 @@
 4. Menerapkan *System Look and Feel* (`UIManager`) untuk memberikan tampilan form yang rapi, bersih, dan modern sesuai dengan tampilan bawaan sistem operasi.
 5. Menambahkan `ActionListener` pada tombol untuk menangkap klik pengguna dan memproses masukan yang diberikan (baik memunculkan *message dialog* maupun me-reset form ke kondisi semula).
 
-## 3. Hasil Praktikum
+## 3. Hasil Praktikum (Dokumentasi UI)
 
-### 3.1 Tampilan Awal Program
-![Tampilan Awal Program](screenshoot/open.png)
+| **Tampilan Awal Program** | **Tampilan Mengisi Form (Bagian 1)** |
+| :---: | :---: |
+| ![Tampilan Awal Program](screenshoot/open.png) | ![Mengisi Form 1](screenshoot/fill-1.png) |
+| **Tampilan Mengisi Form (Bagian 2)** | **Tampilan Hasil Tombol Proses** |
+| ![Mengisi Form 2](screenshoot/fill-2.png) | ![Hasil Tombol Proses](screenshoot/process.png) |
+| **Tampilan Form Setelah Direset** | |
+| ![Hasil Tombol Reset](screenshoot/reset.png) | |
 
-### 3.2 Tampilan Saat Mengisi Form
-![Mengisi Form 1](screenshoot/fill-1.png)
-![Mengisi Form 2](screenshoot/fill-2.png)
+### Source Code (`PemesananMinuman.java`)
 
-### 3.3 Tampilan Hasil Tombol Proses
-![Hasil Tombol Proses](screenshoot/process.png)
-
-### 3.4 Tampilan Form Setelah Direset
-![Hasil Tombol Reset](screenshoot/reset.png)
-
-### 3.5 Source Code (`PemesananMinuman.java`)
 
 ```java
 package latihan13;

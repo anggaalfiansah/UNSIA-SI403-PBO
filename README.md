@@ -16,6 +16,8 @@ Repositori ini berisi kumpulan tugas praktikum dan latihan pemrograman Java untu
 
 Repositori ini disusun berdasarkan sesi pertemuan/latihan. Masing-masing folder berisi kode sumber Java (`.java`), file analisis/laporan (`.md`), dan folder `screenshoot` yang berisi bukti hasil eksekusi program.
 
+- **`latihan9-14.md`** & **`latihan9-14.pdf`** - **Dokumen Gabungan (Latihan 9-14)**
+  File gabungan berisi seluruh laporan praktikum dan analisis dari sesi 9 hingga 14 secara urut dalam satu dokumen tunggal.
 - **`latihan9/`** - **Latihan Sesi 9 (Enkapsulasi)**
   Berisi implementasi konsep enkapsulasi (_Encapsulation_), termasuk penggunaan akses modifier (`private`, `public`) serta _getter_ dan _setter_.
 - **`latihan10/`** - **Latihan Sesi 10 (Interface & Polimorfisme)**
